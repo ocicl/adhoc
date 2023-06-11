@@ -1,9 +1,10 @@
 * adhoc
 
-Another Declarative Hierarchical Object-centric CLOS Customization. An advanced object oriented extension to CLOS.
+Another Declarative Hierarchical Object-centric CLOS Customization. An
+advanced object oriented extension to CLOS.
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/awolven/adhoc.git |
-| commit  | fa6282c                                  |
+| commit  | b025677                                  |
 | systems | adhoc                                    |
 |---------+------------------------------------------|
