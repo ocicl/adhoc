@@ -8,4 +8,4 @@ advanced object oriented extension to CLOS.
 | commit  | ce42280                                  |
 | systems | adhoc                                    |
 |---------+------------------------------------------|
-  
+   
