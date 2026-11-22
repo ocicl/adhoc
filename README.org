@@ -5,7 +5,7 @@ advanced object oriented extension to CLOS.
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/awolven/adhoc.git |
-| commit  | 709bc08                                  |
+| commit  | 78c3847                                  |
 | systems | adhoc                                    |
 |---------+------------------------------------------|
    
